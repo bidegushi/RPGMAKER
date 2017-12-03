@@ -1,0 +1,21 @@
+[
+null,
+{"id":1,"expanded":true,"name":"开头","order":1,"parentId":0,"scrollX":1077,"scrollY":599},
+{"id":2,"expanded":true,"name":"森林城镇","order":2,"parentId":1,"scrollX":1283.3999999999999,"scrollY":511.79999999999995},
+{"id":3,"expanded":false,"name":"非正常人类研究中心","order":13,"parentId":0,"scrollX":1061,"scrollY":601},
+{"id":4,"expanded":true,"name":"研究1F","order":14,"parentId":3,"scrollX":531.5,"scrollY":299.5},
+{"id":5,"expanded":true,"name":"研究-1F","order":15,"parentId":4,"scrollX":708.5,"scrollY":1051.5},
+{"id":6,"expanded":false,"name":"研究-2F","order":16,"parentId":5,"scrollX":531.5,"scrollY":659.5},
+{"id":7,"expanded":false,"name":"物品商店","order":3,"parentId":2,"scrollX":636.6,"scrollY":360.59999999999997},
+{"id":8,"expanded":true,"name":"小村民居 1F","order":4,"parentId":2,"scrollX":636.6,"scrollY":504.59999999999997},
+{"id":9,"expanded":false,"name":"道具屋","order":11,"parentId":2,"scrollX":636.6,"scrollY":360.59999999999997},
+{"id":10,"expanded":false,"name":"传送之间","order":12,"parentId":2,"scrollX":1077,"scrollY":599},
+{"id":11,"expanded":true,"name":"森林城镇","order":5,"parentId":8,"scrollX":1104.6,"scrollY":624.6},
+{"id":12,"expanded":true,"name":"废墟","order":6,"parentId":11,"scrollX":1063.8,"scrollY":1337.3999999999999},
+{"id":13,"expanded":true,"name":"诅咒洞窟","order":7,"parentId":12,"scrollX":1063.8,"scrollY":582.6},
+{"id":14,"expanded":true,"name":"魔王城堡3F","order":8,"parentId":13,"scrollX":1061,"scrollY":635},
+{"id":15,"expanded":true,"name":"MAP015","order":9,"parentId":14,"scrollX":1061,"scrollY":641},
+{"id":16,"expanded":false,"name":"传送之间","order":10,"parentId":15,"scrollX":832,"scrollY":640},
+{"id":17,"expanded":true,"name":"赤壁","order":17,"parentId":0,"scrollX":1061,"scrollY":1001},
+{"id":18,"expanded":false,"name":"赤壁","order":18,"parentId":17,"scrollX":1061,"scrollY":1003}
+]
